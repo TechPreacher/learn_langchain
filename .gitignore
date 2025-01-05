@@ -398,3 +398,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Python
+.venv
+.env
+
+# Mac Stuff
+.DS_Store
